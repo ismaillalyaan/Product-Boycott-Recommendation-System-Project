@@ -11,6 +11,7 @@
 - PyTorch (to build the recommendation model)
 - pyzbar + OpenCV (for barcode reading and analysis)
 - Streamlit (for building the user interface)
+- Deploy on Azure
 - CSV (for storing the product database)
 
 ## How the Project Works
